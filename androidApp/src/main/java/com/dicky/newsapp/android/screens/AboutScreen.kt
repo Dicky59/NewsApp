@@ -1,4 +1,4 @@
-package com.dicky.newsapp.android
+package com.dicky.newsapp.android.screens
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
