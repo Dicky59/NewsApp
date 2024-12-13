@@ -31,6 +31,9 @@ android {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
     }
+    packaging {
+        resources.excludes.add("META-INF/versions/9/previous-compilation-data.bin")
+    }
     kotlinOptions {
         jvmTarget = "1.8"
     }
