@@ -1,4 +1,4 @@
-package com.dicky.newsapp.articles
+package com.dicky.newsapp.articles.data
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

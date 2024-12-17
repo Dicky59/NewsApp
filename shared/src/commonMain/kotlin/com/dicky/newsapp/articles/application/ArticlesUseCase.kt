@@ -1,5 +1,7 @@
-package com.dicky.newsapp.articles
+package com.dicky.newsapp.articles.application
 
+import com.dicky.newsapp.articles.data.ArticleRaw
+import com.dicky.newsapp.articles.data.ArticlesRepository
 import kotlinx.datetime.Clock
 import kotlinx.datetime.Instant
 import kotlinx.datetime.TimeZone

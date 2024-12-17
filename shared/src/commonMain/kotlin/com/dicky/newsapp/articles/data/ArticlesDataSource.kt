@@ -1,4 +1,4 @@
-package com.dicky.newsapp.articles
+package com.dicky.newsapp.articles.data
 
 import dicky.newsapp.db.NewsAppDatabase
 

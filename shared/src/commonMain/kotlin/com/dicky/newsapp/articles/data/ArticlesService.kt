@@ -1,4 +1,4 @@
-package com.dicky.newsapp.articles
+package com.dicky.newsapp.articles.data
 
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body

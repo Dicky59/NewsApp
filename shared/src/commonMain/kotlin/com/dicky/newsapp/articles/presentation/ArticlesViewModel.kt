@@ -1,6 +1,7 @@
-package com.dicky.newsapp.articles
+package com.dicky.newsapp.articles.presentation
 
 import com.dicky.newsapp.BaseViewModel
+import com.dicky.newsapp.articles.application.ArticlesUseCase
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

@@ -1,10 +1,10 @@
 package com.dicky.newsapp.articles.di
 
-import com.dicky.newsapp.articles.ArticlesDataSource
-import com.dicky.newsapp.articles.ArticlesRepository
-import com.dicky.newsapp.articles.ArticlesService
-import com.dicky.newsapp.articles.ArticlesUseCase
-import com.dicky.newsapp.articles.ArticlesViewModel
+import com.dicky.newsapp.articles.data.ArticlesDataSource
+import com.dicky.newsapp.articles.data.ArticlesRepository
+import com.dicky.newsapp.articles.data.ArticlesService
+import com.dicky.newsapp.articles.application.ArticlesUseCase
+import com.dicky.newsapp.articles.presentation.ArticlesViewModel
 import org.koin.dsl.module
 
 val articlesModule = module {

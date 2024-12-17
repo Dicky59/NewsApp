@@ -1,4 +1,4 @@
-package com.dicky.newsapp.articles
+package com.dicky.newsapp.articles.application
 
 data class Article(
     val title: String,
